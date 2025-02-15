@@ -1,0 +1,25 @@
+h2{
+    color: brown;
+    text-align: center;
+}
+
+.videos {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+}
+
+iframe {
+    width: 100%;
+}
+
+.tanvir {
+    border: 10px solid red;
+    border-radius: 50%;
+}
+
+.imageDiv {
+    display: flex;
+    justify-content: center;
+}
